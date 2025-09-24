@@ -1,2 +1,3 @@
-# DevOps_Class_Project
+# Start DevOps journey now
+
 Class Project
